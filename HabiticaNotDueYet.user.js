@@ -4,7 +4,7 @@
 // @description User script to remove tasks which are not due yet.
 // @author      Prince Biswaranjan
 // @homepage    https://github.com/pbvirus/GM-HabiticaNotDueYet
-// @version     1.0.0
+// @version     1.0.1
 // @grant       none
 // @include     https://habitica.com/*
 // @run-at      document-end
