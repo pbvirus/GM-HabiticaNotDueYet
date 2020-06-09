@@ -34,7 +34,6 @@ window.addEventListener('load', () => {
     addButton('Remove Future Tasks',  RemoveTasksNotDue, cssProp);
 });
 
-
 function RemoveTasksNotDue(){
     //Get items with calendar icon
     var calendarIcons = document.getElementsByClassName('calendar');
@@ -51,7 +50,4 @@ function RemoveTasksNotDue(){
         }
       }
     }
-
-    window.alert('Removed tasks not due today');
 }
-
