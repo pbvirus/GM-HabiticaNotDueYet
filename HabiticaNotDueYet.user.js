@@ -33,7 +33,7 @@ window.addEventListener('load', () => {
     let cssProp = {
         position: 'fixed', 
         top: '6%', 
-        right:'1%', 
+        right:'20%', 
         'z-index': 10,
         'background-color': 'red'
     };
