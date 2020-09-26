@@ -4,7 +4,7 @@
 // @description User script to remove tasks which are not due yet.
 // @author      Prince Biswaranjan
 // @homepage    https://github.com/pbvirus/GM-HabiticaNotDueYet
-// @version     1.0.3
+// @version     1.0.4
 // @grant       none
 // @include     https://habitica.com/*
 // @run-at      document-end
@@ -32,7 +32,7 @@ function addButton(text, onclick, cssObj) {
 window.addEventListener('load', () => {
     let cssProp = {
         position: 'fixed', 
-        top: '6%', 
+        top: '11%', 
         right:'20%', 
         'z-index': 10,
         'background-color': 'red'
